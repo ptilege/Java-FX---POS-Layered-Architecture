@@ -1,0 +1,30 @@
+
+`	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112È"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Õ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E
+java:S3740#"/Provide the parametrized type for this generic.(´°æ¸
+J
+java:S3740&"/Provide the parametrized type for this generic.(ºšãÿıÿÿÿÿ
+E
+java:S3740)"/Provide the parametrized type for this generic.(Œà•®
+E
+java:S3740,"/Provide the parametrized type for this generic.(ÚÊØ˜
+J
+java:S3740/"/Provide the parametrized type for this generic.(ù‚©·üÿÿÿÿ
+B
+java:S1602J",Remove useless curly braces around statement(ŠĞå™
+B
+java:S1602h",Remove useless curly braces around statement(ë¹¬
+N
+java:S1172Á"2Remove this unused method parameter "actionEvent".(Íáå‘ùÿÿÿÿ
+I
+java:S1172Ì"2Remove this unused method parameter "actionEvent".(åÈĞê
+U
+java:S1128":Remove this unused import 'bo.custom.impl.CustomerBoImpl'.(–×³€ÿÿÿÿÿ
+N
+java:S1128"3Remove this unused import 'dao.custom.CustomerDao'.(‰‡¬«úÿÿÿÿ
+R
+java:S1128"<Remove this unused import 'dao.custom.impl.CustomerDaoImpl'.(á·Ì‰
+h
+java:S1128"MRemove this unused import 'net.sf.jasperreports.engine.design.JRDesignQuery'.(“ˆØäıÿÿÿÿ
